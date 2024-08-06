@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @OmkarFsc
-- 👀 
+- 👋 Hi, I’m @Omkar
